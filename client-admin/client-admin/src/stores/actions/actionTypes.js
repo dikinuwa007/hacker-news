@@ -1,0 +1,9 @@
+export const FETCH_CATEGORIES_REQUEST = "categories/fetchRequest";
+export const FETCH_CATEGORIES_SUCCESS = "categories/fetchSuccess";
+export const FETCH_POSTS_SUCCESS = "posts/fetchSuccess";
+export const FETCH_TAGS_SUCCESS = "tags/fetchSuccess";
+export const FETCH_POSTID_SUCCESS = "postsid/fetchSuccess";
+export const FETCH_POSTID_REQUEST = "postsid/fetchRequest";
+export const FETCH_POST_REQUEST = "posts/fetchRequest";
+export const FETCH_POST_SUCCESS = "posts/fetchSuccess";
+export const FETCH_POST_START = "posts/fetchStart";

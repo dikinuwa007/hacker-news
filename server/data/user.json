@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "username": "admin1",
+    "password": "admin1",
+    "email": "admin1@mail.com",
+    "role": "admin",
+    "phoneNumber": "08211231231",
+    "address": "jl. bekasi"
+  },
+  {
+    "id": "2",
+    "username": "admin2",
+    "password": "admin2",
+    "email": "admin2@mail.com",
+    "role": "admin",
+    "phoneNumber": "08211231231",
+    "address": "jl. bekasi"
+  },
+  {
+    "id": "3",
+    "username": "admin3",
+    "password": "admin3",
+    "email": "admin3@mail.com",
+    "role": "admin",
+    "phoneNumber": "08211231231",
+    "address": "jl. bekasi"
+  },
+  {
+    "id": "4",
+    "username": "admin4",
+    "password": "admin4",
+    "email": "admin4@mail.com",
+    "role": "admin",
+    "phoneNumber": "08211231231",
+    "address": "jl. bekasi"
+  },
+  {
+    "id": "5",
+    "username": "admin5",
+    "password": "admin5",
+    "email": "admin5@mail.com",
+    "role": "admin",
+    "phoneNumber": "08211231231",
+    "address": "jl. bekasi"
+  },
+  {
+    "id": "6",
+    "username": "superadmin",
+    "password": "superadmin",
+    "email": "superadmin@mail.com",
+    "role": "admin",
+    "phoneNumber": "08211231231",
+    "address": "jl. bekasi"
+  }
+]
